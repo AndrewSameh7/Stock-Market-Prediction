@@ -1,0 +1,20 @@
+# Data manipulation and analysis
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+
+# Data collection
+yfinance
+
+# Data preprocessing and evaluation
+scikit-learn
+
+# Deep Learning
+tensorflow
+
+# Notebook support
+jupyter
+

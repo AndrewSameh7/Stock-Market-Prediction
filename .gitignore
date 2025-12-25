@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# IDE files
+*.idea/
+*.vscode/
+
+# Data & outputs
+data/          # Ignore all raw and processed data
+outputs/       # Ignore all plots and predictions
+models/        # Ignore trained models
+*.csv          # Ignore any CSV outputs
+
+# OS files
+.DS_Store
+Thumbs.db
+
